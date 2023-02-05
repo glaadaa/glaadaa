@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Galaa.
 - 👀 I’m interested in frontend, UX, UI
-- 🌱 I’m currently learning react.js
+- 🌱 I’ve been learning and developing react.js, NextJS
